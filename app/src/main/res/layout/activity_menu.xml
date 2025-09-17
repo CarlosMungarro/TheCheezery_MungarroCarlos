@@ -37,6 +37,7 @@
         android:paddingHorizontal="50dp">
 
         <Button
+            android:id="@+id/button_cold_drinks"
             android:text="@string/cold_drinks"
             android:textColor="@color/dusty_white"
             android:background="@drawable/first_gradient"
@@ -49,6 +50,7 @@
             />
 
         <Button
+            android:id="@+id/button_hot_drinks"
             android:text="@string/hot_drinks"
             android:textColor="@color/dusty_white"
             android:background="@drawable/first_gradient"
@@ -61,6 +63,7 @@
             />
 
         <Button
+            android:id="@+id/button_sweets"
             android:text="@string/sweets"
             android:textColor="@color/dusty_white"
             android:background="@drawable/second_gradient"
@@ -73,6 +76,7 @@
             />
 
         <Button
+            android:id="@+id/button_salties"
             android:text="@string/salties"
             android:textColor="@color/dusty_white"
             android:background="@drawable/second_gradient"
@@ -85,6 +89,7 @@
             />
 
         <Button
+            android:id="@+id/button_combos"
             android:text="@string/combos"
             android:textColor="@color/dusty_white"
             android:background="@drawable/third_gradient"
@@ -97,6 +102,7 @@
             />
 
         <Button
+            android:id="@+id/button_custom"
             android:text="@string/customizable"
             android:textColor="@color/dusty_white"
             android:background="@drawable/third_gradient"
